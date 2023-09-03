@@ -27,6 +27,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Ai/Ml + Web Apps<br>🤝 I’m looking for buddy to push our limits in skills<br>🌱 I’m currently learning Ai/Ml<br>💬 Ask me about anything surely we will deep dive into that
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karan.xidhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karanjot-singh-15022224b) 
