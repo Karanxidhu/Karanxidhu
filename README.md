@@ -27,7 +27,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Ai/Ml + Web Apps<br>🤝 I’m looking for buddy to push our limits in skills<br>🌱 I’m currently learning Ai/Ml<br>💬 Ask me about anything surely we will deep dive into that
+🔭 I’m currently working on learning core systems<br><br>💬 Ask me about anything surely we will deep dive into that
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 <br><br>
